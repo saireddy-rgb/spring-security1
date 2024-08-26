@@ -1,4 +1,4 @@
-1. this project spring security1 is about authenticating and to the verify the details user gave and check with the database to see whether the user is present or not
+1. this project spring security1 is about authenticating and to verify the details user gave and check with the database to see whether the user is present or not
 2. returns the students id , name , marks
  
 open sql workbench paste these lines :

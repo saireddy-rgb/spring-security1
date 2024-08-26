@@ -9,7 +9,7 @@ create table users (id int primary key, username varchar(255), password varchar(
 insert into users values(1,"sai","emo"),(2,"laxmi","kanth"),(3,"harsh","harsh");
 
 or enter your own details
-press alt+shift+enter.
+press control+shift+enter.
 
 how to use
 2. in application.properties enter your database login details
